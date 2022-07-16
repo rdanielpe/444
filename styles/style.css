@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.backend{
+  background-image: url("../img/hacker4.jpg");
+}
+
+.wrapper{
+  margin-left: 30px;
+
+}
+.titulo{
+  color: #fff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 70px;;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.titulo2{
+  color: #fff;
+  
+}
+.contenedor-parrafo{
+  width: 600px;
+  height: auto;
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+.parrafo{
+  color:#fff;
+  font-weight: 500;
+  font-family: monospace;
+  font-size: 16px;
+  
+}
+
+.btn{
+  border: 1px solid #7765E3;
+  border-radius: 8px;
+  padding: 8px 14px;
+  background-color: #7765E3;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  display: block;
+  text-align: center;
+  width: 150px;
+}
+.btn:hover{
+  border: 1px solid #311847;
+  background-color: #311847;
+  transition: all;
+  transition-duration: .3s;
+}
+
+.imagen-hacker{
+  width: 800px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.team{
+  padding: 8px 2px;
+  border: 1px solid black;
+  margin-bottom: 12px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.team a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700px;
+}
+
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.purple{
+  background-color: purple;
+}
+

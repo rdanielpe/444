@@ -69,6 +69,48 @@
   margin-bottom: 20px;
 }
 
+
+
+.full-stacks{
+  background-color: black;
+}
+
+
+.titulo-funcion{
+  color: #fff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-style: italic;
+  text-decoration: underline;
+  margin-left: 1300px;
+   
+
+}
+
+.parrafo-funcion{
+  color: #fff;
+  font-weight: 500;
+  font-family: monospace;
+  font-size: 15px;
+  margin-left: 1250px;  
+}
+
+.diferencias-fullstacks{
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 1300px;
+}
+
+.parrafo-funciones{
+  color: #fff;
+  font-weight: 500;
+  font-family: monospace;
+  font-size: 15px;
+  margin-left: 1250px;  
+}
+
 .team{
   padding: 8px 2px;
   border: 1px solid black;
@@ -76,6 +118,7 @@
   color: #fff;
   text-decoration: none;
 }
+
 
 .team a{
   text-decoration: none;
@@ -85,11 +128,44 @@
 
 .red{
   background-color: red;
+  margin-left: 1250px;
 }
 .blue{
   background-color: blue;
+  margin-left: 1250px
 }
 .purple{
   background-color: purple;
+  margin-left: 1250px
+}
+.btn-danielpe{
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 7px 12px;
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  display: block;
+  text-align: center;
+  width: 150px;
+  margin-left: 1500px;
 }
 
+.dall{
+  color: #fff;
+  font-weight: 500;
+  font-size: 15px;
+  margin-left: 1250px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+  font-size: 25px;
+}
+
+.btn-danielpe:hover{
+  border: 1px solid #311847;
+  background-color: #311847;
+  transition: all;
+  transition-duration: .3s;
+  
